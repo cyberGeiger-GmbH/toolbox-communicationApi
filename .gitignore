@@ -37,3 +37,4 @@ pubspec.lock
 **/.DS_Store
 **/Podfile.lock
 >>>>>>> iOS
+java/GeigerApiPluginConnector/src/test/dart/pubspec.lock
